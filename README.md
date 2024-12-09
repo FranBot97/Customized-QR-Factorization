@@ -1,4 +1,4 @@
-# Project 22
+# Customized QR Factorization
 
 **(P)** is the linear least squares problem:
 
